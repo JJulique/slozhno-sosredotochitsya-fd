@@ -10,11 +10,9 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-image: url(../images/cover-image-light.png);
-  --bg-color: #f1b2ce;
+  --bg-color: #FFF1F7;
   --accent-color: #ff8dcb;
   --heading-color: #ffc2e6;
-  --font-family: 'IBM Plex Mono', sans-serif;
-  --font-size: 18px;
   --content-heading-color: #353430;
   --text-color: #353430;
   --nav-color: #353430;
@@ -30,8 +28,6 @@
     --bg-color: #f1b2ce;
     --accent-color: #ff8dcb;
     --heading-color: #ffc2e6;
-    --font-family: 'IBM Plex Mono', sans-serif;
-    --font-size: 18px;
     --content-heading-color: #353430;
     --text-color: #353430;
     --nav-color: #353430;
